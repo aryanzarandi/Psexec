@@ -1,3 +1,4 @@
 # Psexec
-Utility to Use Some Psexec common command   to use in windows written by Python 
-and compile by Pyinstaller to use simple for windows
+Utility to Use Some Psexec common command
+Written by Python 
+Compiled by Pyinstaller to use simple for windows 
